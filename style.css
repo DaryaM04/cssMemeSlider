@@ -89,6 +89,7 @@ body {
     list-style: none;
     height: 100%;
     width: 100%;
+    text-align: start;
   }
   
   .title {
@@ -97,6 +98,7 @@ body {
     white-space: nowrap;
     margin: 0;
     font-size: 24px;
+    text-align: start;
     transform: translateY(0%);
   }
   
